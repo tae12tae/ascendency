@@ -1,4 +1,4 @@
-# Minecraft Bedrock Ghost Client v1.20.12
+# Minecraft Bedrock Ghost Client v1.20.50
 
 ![Minecraft Bedrock Ghost Client Screenshot](https://media.discordapp.net/attachments/1140005765323685898/1140005944630202549/image.png)
 
